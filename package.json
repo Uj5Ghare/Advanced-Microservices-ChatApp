@@ -1,0 +1,1 @@
+{\n  "name": "monorepo",\n  "private": true,\n  "workspaces": [\n    "packages/*"\n  ],\n  "devDependencies": {\n    "lerna": "^6.0.0"\n  }\n}
